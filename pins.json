@@ -163,6 +163,38 @@
 		{
 			"id": 41,
 			"image": "jessie/phew.png"
+		},
+		{
+			"id": 42,
+			"image": "brock/neutral.png"
+		},
+		{
+			"id": 43,
+			"image": "brock/happy.png"
+		},
+		{
+			"id": 45,
+			"image": "brock/sad.png"
+		},
+		{
+			"id": 46,
+			"image": "brock/angry.png"
+		},
+		{
+			"id": 47,
+			"image": "brock/gg.png"
+		},
+		{
+			"id": 48,
+			"image": "brock/clap.png"
+		},
+		{
+			"id": 49,
+			"image": "brock/thanks.png"
+		},
+		{
+			"id": 50,
+			"image": "brock/phew.png"
 		}
 	]
 }
