@@ -291,6 +291,38 @@
 		{
 			"id": 73,
 			"image": "tick/phew.png"
+		},
+		{
+			"id": 74,
+			"image": "8-bit/neutral.png"
+		},
+		{
+			"id": 75,
+			"image": "8-bit/happy.png"
+		},
+		{
+			"id": 76,
+			"image": "8-bit/sad.png"
+		},
+		{
+			"id": 77,
+			"image": "8-bit/angry.png"
+		},
+		{
+			"id": 78,
+			"image": "8-bit/gg.png"
+		},
+		{
+			"id": 79,
+			"image": "8-bit/clap.png"
+		},
+		{
+			"id": 80,
+			"image": "8-bit/thanks.png"
+		},
+		{
+			"id": 81,
+			"image": "8-bit/phew.png"
 		}
 	]
 }
