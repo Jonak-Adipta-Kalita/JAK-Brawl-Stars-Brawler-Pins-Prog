@@ -131,6 +131,38 @@
 		{
 			"id": 33,
 			"image": "bull/phew.png"
+		},
+		{
+			"id": 34,
+			"image": "jessie/neutral.png"
+		},
+		{
+			"id": 35,
+			"image": "jessie/happy.png"
+		},
+		{
+			"id": 36,
+			"image": "jessie/sad.png"
+		},
+		{
+			"id": 37,
+			"image": "jessie/angry.png"
+		},
+		{
+			"id": 38,
+			"image": "jessie/gg.png"
+		},
+		{
+			"id": 39,
+			"image": "jessie/clap.png"
+		},
+		{
+			"id": 40,
+			"image": "jessie/thanks.png"
+		},
+		{
+			"id": 41,
+			"image": "jessie/phew.png"
 		}
 	]
 }
