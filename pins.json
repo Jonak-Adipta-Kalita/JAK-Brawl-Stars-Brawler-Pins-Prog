@@ -31,6 +31,38 @@
 		{
 			"id": 7,
 			"image": "shelly/phew.png"
+		},
+		{
+			"id": 8,
+			"image": "nita/neutral.png"
+		},
+		{
+			"id": 9,
+			"image": "nita/happy.png"
+		},
+		{
+			"id": 10,
+			"image": "nita/sad.png"
+		},
+		{
+			"id": 11,
+			"image": "nita/angry.png"
+		},
+		{
+			"id": 12,
+			"image": "nita/gg.png"
+		},
+		{
+			"id": 13,
+			"image": "nita/clap.png"
+		},
+		{
+			"id": 14,
+			"image": "nita/thanks.png"
+		},
+		{
+			"id": 15,
+			"image": "nita/phew.png"
 		}
 	]
 }
