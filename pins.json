@@ -427,6 +427,38 @@
 		{
 			"id": 106,
 			"image": "el-primo/phew.png"
+		},
+		{
+			"id": 107,
+			"image": "barley/neutral.png"
+		},
+		{
+			"id": 108,
+			"image": "barley/happy.png"
+		},
+		{
+			"id": 109,
+			"image": "barley/sad.png"
+		},
+		{
+			"id": 110,
+			"image": "barley/angry.png"
+		},
+		{
+			"id": 111,
+			"image": "barley/gg.png"
+		},
+		{
+			"id": 112,
+			"image": "barley/clap.png"
+		},
+		{
+			"id": 113,
+			"image": "barley/thanks.png"
+		},
+		{
+			"id": 114,
+			"image": "barley/phew.png"
 		}
 	]
 }
