@@ -173,27 +173,27 @@
 			"image": "brock/happy.png"
 		},
 		{
-			"id": 45,
+			"id": 44,
 			"image": "brock/sad.png"
 		},
 		{
-			"id": 46,
+			"id": 45,
 			"image": "brock/angry.png"
 		},
 		{
-			"id": 47,
+			"id": 46,
 			"image": "brock/gg.png"
 		},
 		{
-			"id": 48,
+			"id": 47,
 			"image": "brock/clap.png"
 		},
 		{
-			"id": 49,
+			"id": 48,
 			"image": "brock/thanks.png"
 		},
 		{
-			"id": 50,
+			"id": 49,
 			"image": "brock/phew.png"
 		}
 	]
