@@ -359,6 +359,42 @@
 		{
 			"id": 89,
 			"image": "emz/special.png"
+		},
+		{
+			"id": 90,
+			"image": "stu/neutral.png"
+		},
+		{
+			"id": 91,
+			"image": "stu/happy.png"
+		},
+		{
+			"id": 92,
+			"image": "stu/sad.png"
+		},
+		{
+			"id": 93,
+			"image": "stu/angry.png"
+		},
+		{
+			"id": 94,
+			"image": "stu/gg.png"
+		},
+		{
+			"id": 95,
+			"image": "stu/clap.png"
+		},
+		{
+			"id": 96,
+			"image": "stu/thanks.png"
+		},
+		{
+			"id": 97,
+			"image": "stu/phew.png"
+		},
+		{
+			"id": 98,
+			"image": "stu/special.png"
 		}
 	]
 }
