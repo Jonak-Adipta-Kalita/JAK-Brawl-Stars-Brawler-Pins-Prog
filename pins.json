@@ -323,6 +323,42 @@
 		{
 			"id": 81,
 			"image": "8-bit/phew.png"
+		},
+		{
+			"id": 82,
+			"image": "emz/neutral.png"
+		},
+		{
+			"id": 83,
+			"image": "emz/happy.png"
+		},
+		{
+			"id": 84,
+			"image": "emz/sad.png"
+		},
+		{
+			"id": 85,
+			"image": "emz/angry.png"
+		},
+		{
+			"id": 86,
+			"image": "emz/gg.png"
+		},
+		{
+			"id": 87,
+			"image": "emz/clap.png"
+		},
+		{
+			"id": 88,
+			"image": "emz/thanks.png"
+		},
+		{
+			"id": 89,
+			"image": "emz/phew.png"
+		},
+		{
+			"id": 90,
+			"image": "emz/special.png"
 		}
 	]
 }
