@@ -195,6 +195,38 @@
 		{
 			"id": 49,
 			"image": "brock/phew.png"
+		},
+		{
+			"id": 50,
+			"image": "dynamike/neutral.png"
+		},
+		{
+			"id": 51,
+			"image": "dynamike/happy.png"
+		},
+		{
+			"id": 52,
+			"image": "dynamike/sad.png"
+		},
+		{
+			"id": 53,
+			"image": "dynamike/angry.png"
+		},
+		{
+			"id": 54,
+			"image": "dynamike/gg.png"
+		},
+		{
+			"id": 55,
+			"image": "dynamike/clap.png"
+		},
+		{
+			"id": 56,
+			"image": "dynamike/thanks.png"
+		},
+		{
+			"id": 57,
+			"image": "dynamike/phew.png"
 		}
 	]
 }
