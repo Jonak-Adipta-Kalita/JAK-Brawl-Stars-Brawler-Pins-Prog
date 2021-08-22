@@ -395,6 +395,38 @@
 		{
 			"id": 98,
 			"image": "stu/special.png"
+		},
+		{
+			"id": 99,
+			"image": "el-primo/neutral.png"
+		},
+		{
+			"id": 100,
+			"image": "el-primo/happy.png"
+		},
+		{
+			"id": 101,
+			"image": "el-primo/sad.png"
+		},
+		{
+			"id": 102,
+			"image": "el-primo/angry.png"
+		},
+		{
+			"id": 103,
+			"image": "el-primo/gg.png"
+		},
+		{
+			"id": 104,
+			"image": "el-primo/clap.png"
+		},
+		{
+			"id": 105,
+			"image": "el-primo/thanks.png"
+		},
+		{
+			"id": 106,
+			"image": "el-primo/phew.png"
 		}
 	]
 }
