@@ -78,23 +78,59 @@
 		},
 		{
 			"id": 19,
-			"image": "colt/gg.png"
+			"image": "colt/angry.png"
 		},
 		{
 			"id": 20,
-			"image": "colt/clap.png"
+			"image": "colt/gg.png"
 		},
 		{
 			"id": 21,
-			"image": "colt/thanks.png"
+			"image": "colt/clap.png"
 		},
 		{
 			"id": 22,
-			"image": "colt/phew.png"
+			"image": "colt/thanks.png"
 		},
 		{
 			"id": 23,
+			"image": "colt/phew.png"
+		},
+		{
+			"id": 24,
 			"image": "colt/special.png"
+		},
+		{
+			"id": 25,
+			"image": "bull/neutral.png"
+		},
+		{
+			"id": 26,
+			"image": "bull/happy.png"
+		},
+		{
+			"id": 27,
+			"image": "bull/sad.png"
+		},
+		{
+			"id": 28,
+			"image": "bull/angry.png"
+		},
+		{
+			"id": 29,
+			"image": "bull/gg.png"
+		},
+		{
+			"id": 30,
+			"image": "bull/clap.png"
+		},
+		{
+			"id": 31,
+			"image": "bull/thanks.png"
+		},
+		{
+			"id": 33,
+			"image": "bull/phew.png"
 		}
 	]
 }
