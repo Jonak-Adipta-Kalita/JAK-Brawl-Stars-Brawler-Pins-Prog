@@ -1,0 +1,36 @@
+{
+	"results": [
+		{
+			"id": 0,
+			"image": "shelly/neutral.png"
+		},
+		{
+			"id": 1,
+			"image": "shelly/happy.png"
+		},
+		{
+			"id": 2,
+			"image": "shelly/sad.png"
+		},
+		{
+			"id": 3,
+			"image": "shelly/angry.png"
+		},
+		{
+			"id": 4,
+			"image": "shelly/gg.png"
+		},
+		{
+			"id": 5,
+			"image": "shelly/clap.png"
+		},
+		{
+			"id": 6,
+			"image": "shelly/thanks.png"
+		},
+		{
+			"id": 7,
+			"image": "shelly/phew.png"
+		}
+	]
+}
