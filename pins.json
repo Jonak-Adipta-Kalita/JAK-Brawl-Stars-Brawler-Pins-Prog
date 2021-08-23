@@ -827,6 +827,38 @@
 		{
 			"id": 206,
 			"image": "frank/phew.png"
+		},
+		{
+			"id": 207,
+			"image": "bibi/neutral.png"
+		},
+		{
+			"id": 208,
+			"image": "bibi/happy.png"
+		},
+		{
+			"id": 209,
+			"image": "bibi/sad.png"
+		},
+		{
+			"id": 210,
+			"image": "bibi/angry.png"
+		},
+		{
+			"id": 211,
+			"image": "bibi/gg.png"
+		},
+		{
+			"id": 212,
+			"image": "bibi/clap.png"
+		},
+		{
+			"id": 213,
+			"image": "bibi/thanks.png"
+		},
+		{
+			"id": 214,
+			"image": "bibi/phew.png"
 		}
 	]
 }
