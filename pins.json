@@ -859,6 +859,38 @@
 		{
 			"id": 214,
 			"image": "bibi/phew.png"
+		},
+		{
+			"id": 215,
+			"image": "bea/neutral.png"
+		},
+		{
+			"id": 216,
+			"image": "bea/happy.png"
+		},
+		{
+			"id": 217,
+			"image": "bea/sad.png"
+		},
+		{
+			"id": 218,
+			"image": "bea/angry.png"
+		},
+		{
+			"id": 219,
+			"image": "bea/gg.png"
+		},
+		{
+			"id": 220,
+			"image": "bea/clap.png"
+		},
+		{
+			"id": 221,
+			"image": "bea/thanks.png"
+		},
+		{
+			"id": 222,
+			"image": "bea/phew.png"
 		}
 	]
 }
