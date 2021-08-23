@@ -1031,6 +1031,42 @@
 		{
 			"id": 257,
 			"image": "mortis/phew.png"
+		},
+		{
+			"id": 258,
+			"image": "tara/neutral.png"
+		},
+		{
+			"id": 259,
+			"image": "tara/happy.png"
+		},
+		{
+			"id": 260,
+			"image": "tara/sad.png"
+		},
+		{
+			"id": 261,
+			"image": "tara/angry.png"
+		},
+		{
+			"id": 262,
+			"image": "tara/gg.png"
+		},
+		{
+			"id": 263,
+			"image": "tara/clap.png"
+		},
+		{
+			"id": 264,
+			"image": "tara/thanks.png"
+		},
+		{
+			"id": 265,
+			"image": "tara/phew.png"
+		},
+		{
+			"id": 266,
+			"image": "tara/special.png"
 		}
 	]
 }
