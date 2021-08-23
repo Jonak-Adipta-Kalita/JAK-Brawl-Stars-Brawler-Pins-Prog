@@ -927,6 +927,42 @@
 		{
 			"id": 231,
 			"image": "nani/special.png"
+		},
+		{
+			"id": 232,
+			"image": "edgar/neutral.png"
+		},
+		{
+			"id": 233,
+			"image": "edgar/happy.png"
+		},
+		{
+			"id": 234,
+			"image": "edgar/sad.png"
+		},
+		{
+			"id": 235,
+			"image": "edgar/angry.png"
+		},
+		{
+			"id": 236,
+			"image": "edgar/gg.png"
+		},
+		{
+			"id": 237,
+			"image": "edgar/clap.png"
+		},
+		{
+			"id": 238,
+			"image": "edgar/thanks.png"
+		},
+		{
+			"id": 239,
+			"image": "edgar/phew.png"
+		},
+		{
+			"id": 240,
+			"image": "edgar/special.png"
 		}
 	]
 }
