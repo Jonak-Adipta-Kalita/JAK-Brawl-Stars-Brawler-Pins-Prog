@@ -495,6 +495,74 @@
 		{
 			"id": 123,
 			"image": "poco/special.png"
+		},
+		{
+			"id": 124,
+			"image": "rosa/neutral.png"
+		},
+		{
+			"id": 125,
+			"image": "rosa/happy.png"
+		},
+		{
+			"id": 126,
+			"image": "rosa/sad.png"
+		},
+		{
+			"id": 127,
+			"image": "rosa/angry.png"
+		},
+		{
+			"id": 128,
+			"image": "rosa/gg.png"
+		},
+		{
+			"id": 129,
+			"image": "rosa/clap.png"
+		},
+		{
+			"id": 130,
+			"image": "rosa/thanks.png"
+		},
+		{
+			"id": 131,
+			"image": "rosa/phew.png"
+		},
+		{
+			"id": 132,
+			"image": "rosa/brawl-o-ween-rosa/neutral.png"
+		},
+		{
+			"id": 133,
+			"image": "rosa/brawl-o-ween-rosa/happy.png"
+		},
+		{
+			"id": 134,
+			"image": "rosa/brawl-o-ween-rosa/sad.png"
+		},
+		{
+			"id": 135,
+			"image": "rosa/brawl-o-ween-rosa/angry.png"
+		},
+		{
+			"id": 136,
+			"image": "rosa/brawl-o-ween-rosa/gg.png"
+		},
+		{
+			"id": 137,
+			"image": "rosa/brawl-o-ween-rosa/clap.png"
+		},
+		{
+			"id": 138,
+			"image": "rosa/brawl-o-ween-rosa/thanks.png"
+		},
+		{
+			"id": 139,
+			"image": "rosa/brawl-o-ween-rosa/phew.png"
+		},
+		{
+			"id": 140,
+			"image": "rosa/brawl-o-ween-rosa/special.png"
 		}
 	]
 }
