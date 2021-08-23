@@ -634,39 +634,35 @@
 		},
 		{
 			"id": 158,
-			"image": "darryl/neutral.png"
+			"image": "penny/neutral.png"
 		},
 		{
 			"id": 159,
-			"image": "darryl/happy.png"
+			"image": "penny/happy.png"
 		},
 		{
 			"id": 160,
-			"image": "darryl/sad.png"
+			"image": "penny/sad.png"
 		},
 		{
 			"id": 161,
-			"image": "darryl/angry.png"
+			"image": "penny/angry.png"
 		},
 		{
 			"id": 162,
-			"image": "darryl/gg.png"
+			"image": "penny/gg.png"
 		},
 		{
 			"id": 163,
-			"image": "darryl/clap.png"
+			"image": "penny/clap.png"
 		},
 		{
 			"id": 164,
-			"image": "darryl/thanks.png"
+			"image": "penny/thanks.png"
 		},
 		{
 			"id": 165,
-			"image": "darryl/phew.png"
-		},
-		{
-			"id": 166,
-			"image": "darryl/megabox-darryl/special.png"
+			"image": "penny/phew.png"
 		}
 	]
 }
