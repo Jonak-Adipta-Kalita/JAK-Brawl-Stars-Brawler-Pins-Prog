@@ -699,6 +699,38 @@
 		{
 			"id": 174,
 			"image": "carl/special.png"
+		},
+		{
+			"id": 175,
+			"image": "jacky/neutral.png"
+		},
+		{
+			"id": 176,
+			"image": "jacky/happy.png"
+		},
+		{
+			"id": 177,
+			"image": "jacky/sad.png"
+		},
+		{
+			"id": 178,
+			"image": "jacky/angry.png"
+		},
+		{
+			"id": 179,
+			"image": "jacky/gg.png"
+		},
+		{
+			"id": 180,
+			"image": "jacky/clap.png"
+		},
+		{
+			"id": 181,
+			"image": "jacky/thanks.png"
+		},
+		{
+			"id": 182,
+			"image": "jacky/phew.png"
 		}
 	]
 }
