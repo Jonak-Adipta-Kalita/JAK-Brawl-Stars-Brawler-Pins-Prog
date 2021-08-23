@@ -963,6 +963,42 @@
 		{
 			"id": 240,
 			"image": "edgar/special.png"
+		},
+		{
+			"id": 241,
+			"image": "griff/neutral.png"
+		},
+		{
+			"id": 242,
+			"image": "griff/happy.png"
+		},
+		{
+			"id": 243,
+			"image": "griff/sad.png"
+		},
+		{
+			"id": 244,
+			"image": "griff/angry.png"
+		},
+		{
+			"id": 245,
+			"image": "griff/gg.png"
+		},
+		{
+			"id": 246,
+			"image": "griff/clap.png"
+		},
+		{
+			"id": 247,
+			"image": "griff/thanks.png"
+		},
+		{
+			"id": 248,
+			"image": "griff/phew.png"
+		},
+		{
+			"id": 249,
+			"image": "griff/special.png"
 		}
 	]
 }
