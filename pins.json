@@ -663,6 +663,42 @@
 		{
 			"id": 165,
 			"image": "penny/phew.png"
+		},
+		{
+			"id": 166,
+			"image": "carl/neutral.png"
+		},
+		{
+			"id": 167,
+			"image": "carl/happy.png"
+		},
+		{
+			"id": 168,
+			"image": "carl/sad.png"
+		},
+		{
+			"id": 169,
+			"image": "carl/angry.png"
+		},
+		{
+			"id": 170,
+			"image": "carl/gg.png"
+		},
+		{
+			"id": 171,
+			"image": "carl/clap.png"
+		},
+		{
+			"id": 172,
+			"image": "carl/thanks.png"
+		},
+		{
+			"id": 173,
+			"image": "carl/phew.png"
+		},
+		{
+			"id": 174,
+			"image": "carl/special.png"
 		}
 	]
 }
