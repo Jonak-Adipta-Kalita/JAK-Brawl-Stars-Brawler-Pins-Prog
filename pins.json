@@ -563,6 +563,38 @@
 		{
 			"id": 140,
 			"image": "rosa/brawl-o-ween-rosa/special.png"
+		},
+		{
+			"id": 141,
+			"image": "rico/neutral.png"
+		},
+		{
+			"id": 142,
+			"image": "rico/happy.png"
+		},
+		{
+			"id": 143,
+			"image": "rico/sad.png"
+		},
+		{
+			"id": 144,
+			"image": "rico/angry.png"
+		},
+		{
+			"id": 145,
+			"image": "rico/gg.png"
+		},
+		{
+			"id": 146,
+			"image": "rico/clap.png"
+		},
+		{
+			"id": 147,
+			"image": "rico/thanks.png"
+		},
+		{
+			"id": 148,
+			"image": "rico/phew.png"
 		}
 	]
 }
