@@ -891,6 +891,42 @@
 		{
 			"id": 222,
 			"image": "bea/phew.png"
+		},
+		{
+			"id": 223,
+			"image": "nani/neutral.png"
+		},
+		{
+			"id": 224,
+			"image": "nani/happy.png"
+		},
+		{
+			"id": 225,
+			"image": "nani/sad.png"
+		},
+		{
+			"id": 226,
+			"image": "nani/angry.png"
+		},
+		{
+			"id": 227,
+			"image": "nani/gg.png"
+		},
+		{
+			"id": 228,
+			"image": "nani/clap.png"
+		},
+		{
+			"id": 229,
+			"image": "nani/thanks.png"
+		},
+		{
+			"id": 230,
+			"image": "nani/phew.png"
+		},
+		{
+			"id": 231,
+			"image": "nani/special.png"
 		}
 	]
 }
