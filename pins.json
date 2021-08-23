@@ -459,6 +459,42 @@
 		{
 			"id": 114,
 			"image": "barley/phew.png"
+		},
+		{
+			"id": 115,
+			"image": "poco/neutral.png"
+		},
+		{
+			"id": 116,
+			"image": "poco/happy.png"
+		},
+		{
+			"id": 117,
+			"image": "poco/sad.png"
+		},
+		{
+			"id": 118,
+			"image": "poco/angry.png"
+		},
+		{
+			"id": 119,
+			"image": "poco/gg.png"
+		},
+		{
+			"id": 120,
+			"image": "poco/clap.png"
+		},
+		{
+			"id": 121,
+			"image": "poco/thanks.png"
+		},
+		{
+			"id": 122,
+			"image": "poco/phew.png"
+		},
+		{
+			"id": 123,
+			"image": "poco/special.png"
 		}
 	]
 }
