@@ -731,6 +731,38 @@
 		{
 			"id": 182,
 			"image": "jacky/phew.png"
+		},
+		{
+			"id": 183,
+			"image": "piper/neutral.png"
+		},
+		{
+			"id": 184,
+			"image": "piper/happy.png"
+		},
+		{
+			"id": 185,
+			"image": "piper/sad.png"
+		},
+		{
+			"id": 186,
+			"image": "piper/angry.png"
+		},
+		{
+			"id": 187,
+			"image": "piper/gg.png"
+		},
+		{
+			"id": 188,
+			"image": "piper/clap.png"
+		},
+		{
+			"id": 189,
+			"image": "piper/thanks.png"
+		},
+		{
+			"id": 190,
+			"image": "piper/phew.png"
 		}
 	]
 }
