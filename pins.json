@@ -595,6 +595,78 @@
 		{
 			"id": 148,
 			"image": "rico/phew.png"
+		},
+		{
+			"id": 149,
+			"image": "darryl/neutral.png"
+		},
+		{
+			"id": 150,
+			"image": "darryl/happy.png"
+		},
+		{
+			"id": 151,
+			"image": "darryl/sad.png"
+		},
+		{
+			"id": 152,
+			"image": "darryl/angry.png"
+		},
+		{
+			"id": 153,
+			"image": "darryl/gg.png"
+		},
+		{
+			"id": 154,
+			"image": "darryl/clap.png"
+		},
+		{
+			"id": 155,
+			"image": "darryl/thanks.png"
+		},
+		{
+			"id": 156,
+			"image": "darryl/phew.png"
+		},
+		{
+			"id": 157,
+			"image": "darryl/megabox-darryl/special.png"
+		},
+		{
+			"id": 158,
+			"image": "darryl/neutral.png"
+		},
+		{
+			"id": 159,
+			"image": "darryl/happy.png"
+		},
+		{
+			"id": 160,
+			"image": "darryl/sad.png"
+		},
+		{
+			"id": 161,
+			"image": "darryl/angry.png"
+		},
+		{
+			"id": 162,
+			"image": "darryl/gg.png"
+		},
+		{
+			"id": 163,
+			"image": "darryl/clap.png"
+		},
+		{
+			"id": 164,
+			"image": "darryl/thanks.png"
+		},
+		{
+			"id": 165,
+			"image": "darryl/phew.png"
+		},
+		{
+			"id": 166,
+			"image": "darryl/megabox-darryl/special.png"
 		}
 	]
 }
