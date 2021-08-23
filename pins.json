@@ -763,6 +763,38 @@
 		{
 			"id": 190,
 			"image": "piper/phew.png"
+		},
+		{
+			"id": 191,
+			"image": "pam/neutral.png"
+		},
+		{
+			"id": 192,
+			"image": "pam/happy.png"
+		},
+		{
+			"id": 193,
+			"image": "pam/sad.png"
+		},
+		{
+			"id": 194,
+			"image": "pam/angry.png"
+		},
+		{
+			"id": 195,
+			"image": "pam/gg.png"
+		},
+		{
+			"id": 196,
+			"image": "pam/clap.png"
+		},
+		{
+			"id": 197,
+			"image": "pam/thanks.png"
+		},
+		{
+			"id": 198,
+			"image": "pam/phew.png"
 		}
 	]
 }
