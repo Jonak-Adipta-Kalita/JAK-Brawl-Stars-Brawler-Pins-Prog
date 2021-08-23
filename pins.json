@@ -999,6 +999,38 @@
 		{
 			"id": 249,
 			"image": "griff/special.png"
+		},
+		{
+			"id": 250,
+			"image": "mortis/neutral.png"
+		},
+		{
+			"id": 251,
+			"image": "mortis/happy.png"
+		},
+		{
+			"id": 252,
+			"image": "mortis/sad.png"
+		},
+		{
+			"id": 253,
+			"image": "mortis/angry.png"
+		},
+		{
+			"id": 254,
+			"image": "mortis/gg.png"
+		},
+		{
+			"id": 255,
+			"image": "mortis/clap.png"
+		},
+		{
+			"id": 256,
+			"image": "mortis/thanks.png"
+		},
+		{
+			"id": 257,
+			"image": "mortis/phew.png"
 		}
 	]
 }
