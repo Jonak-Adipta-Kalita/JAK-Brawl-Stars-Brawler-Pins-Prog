@@ -1099,6 +1099,38 @@
 		{
 			"id": 274,
 			"image": "gene/phew.png"
+		},
+		{
+			"id": 275,
+			"image": "max/neutral.png"
+		},
+		{
+			"id": 276,
+			"image": "max/happy.png"
+		},
+		{
+			"id": 277,
+			"image": "max/sad.png"
+		},
+		{
+			"id": 278,
+			"image": "max/angry.png"
+		},
+		{
+			"id": 279,
+			"image": "max/gg.png"
+		},
+		{
+			"id": 280,
+			"image": "max/clap.png"
+		},
+		{
+			"id": 281,
+			"image": "max/thanks.png"
+		},
+		{
+			"id": 282,
+			"image": "max/phew.png"
 		}
 	]
 }
