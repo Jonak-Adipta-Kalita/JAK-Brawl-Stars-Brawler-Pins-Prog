@@ -1267,6 +1267,38 @@
 		{
 			"id": 316,
 			"image": "squeak/special.png"
+		},
+		{
+			"id": 317,
+			"image": "crow/neutral.png"
+		},
+		{
+			"id": 318,
+			"image": "crow/happy.png"
+		},
+		{
+			"id": 319,
+			"image": "crow/sad.png"
+		},
+		{
+			"id": 320,
+			"image": "crow/angry.png"
+		},
+		{
+			"id": 321,
+			"image": "crow/gg.png"
+		},
+		{
+			"id": 322,
+			"image": "crow/clap.png"
+		},
+		{
+			"id": 323,
+			"image": "crow/thanks.png"
+		},
+		{
+			"id": 324,
+			"image": "crow/phew.png"
 		}
 	]
 }
