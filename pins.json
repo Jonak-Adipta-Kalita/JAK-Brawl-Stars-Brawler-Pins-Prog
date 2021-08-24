@@ -1131,6 +1131,38 @@
 		{
 			"id": 282,
 			"image": "max/phew.png"
+		},
+		{
+			"id": 283,
+			"image": "mr-p/neutral.png"
+		},
+		{
+			"id": 284,
+			"image": "mr-p/happy.png"
+		},
+		{
+			"id": 285,
+			"image": "mr-p/sad.png"
+		},
+		{
+			"id": 286,
+			"image": "mr-p/angry.png"
+		},
+		{
+			"id": 287,
+			"image": "mr-p/gg.png"
+		},
+		{
+			"id": 288,
+			"image": "mr-p/clap.png"
+		},
+		{
+			"id": 289,
+			"image": "mr-p/thanks.png"
+		},
+		{
+			"id": 290,
+			"image": "mr-p/phew.png"
 		}
 	]
 }
