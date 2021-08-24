@@ -1163,6 +1163,38 @@
 		{
 			"id": 290,
 			"image": "mr-p/phew.png"
+		},
+		{
+			"id": 291,
+			"image": "sprout/neutral.png"
+		},
+		{
+			"id": 292,
+			"image": "sprout/happy.png"
+		},
+		{
+			"id": 293,
+			"image": "sprout/sad.png"
+		},
+		{
+			"id": 294,
+			"image": "sprout/angry.png"
+		},
+		{
+			"id": 295,
+			"image": "sprout/gg.png"
+		},
+		{
+			"id": 296,
+			"image": "sprout/clap.png"
+		},
+		{
+			"id": 297,
+			"image": "sprout/thanks.png"
+		},
+		{
+			"id": 298,
+			"image": "sprout/phew.png"
 		}
 	]
 }
