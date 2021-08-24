@@ -1231,6 +1231,42 @@
 		{
 			"id": 307,
 			"image": "byron/special.png"
+		},
+		{
+			"id": 308,
+			"image": "squeak/neutral.png"
+		},
+		{
+			"id": 309,
+			"image": "squeak/happy.png"
+		},
+		{
+			"id": 310,
+			"image": "squeak/sad.png"
+		},
+		{
+			"id": 311,
+			"image": "squeak/angry.png"
+		},
+		{
+			"id": 312,
+			"image": "squeak/gg.png"
+		},
+		{
+			"id": 313,
+			"image": "squeak/clap.png"
+		},
+		{
+			"id": 314,
+			"image": "squeak/thanks.png"
+		},
+		{
+			"id": 315,
+			"image": "squeak/phew.png"
+		},
+		{
+			"id": 316,
+			"image": "squeak/special.png"
 		}
 	]
 }
