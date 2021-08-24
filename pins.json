@@ -1299,6 +1299,38 @@
 		{
 			"id": 324,
 			"image": "crow/phew.png"
+		},
+		{
+			"id": 325,
+			"image": "spike/neutral.png"
+		},
+		{
+			"id": 326,
+			"image": "spike/happy.png"
+		},
+		{
+			"id": 327,
+			"image": "spike/sad.png"
+		},
+		{
+			"id": 328,
+			"image": "spike/angry.png"
+		},
+		{
+			"id": 329,
+			"image": "spike/gg.png"
+		},
+		{
+			"id": 330,
+			"image": "spike/clap.png"
+		},
+		{
+			"id": 331,
+			"image": "spike/thanks.png"
+		},
+		{
+			"id": 332,
+			"image": "spike/phew.png"
 		}
 	]
 }
