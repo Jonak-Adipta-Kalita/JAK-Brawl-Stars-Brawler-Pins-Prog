@@ -1363,6 +1363,42 @@
 		{
 			"id": 340,
 			"image": "leon/phew.png"
+		},
+		{
+			"id": 341,
+			"image": "sandy/neutral.png"
+		},
+		{
+			"id": 342,
+			"image": "sandy/happy.png"
+		},
+		{
+			"id": 343,
+			"image": "sandy/sad.png"
+		},
+		{
+			"id": 344,
+			"image": "sandy/angry.png"
+		},
+		{
+			"id": 345,
+			"image": "sandy/gg.png"
+		},
+		{
+			"id": 346,
+			"image": "sandy/clap.png"
+		},
+		{
+			"id": 347,
+			"image": "sandy/thanks.png"
+		},
+		{
+			"id": 348,
+			"image": "sandy/phew.png"
+		},
+		{
+			"id": 349,
+			"image": "sandy/special.png"
 		}
 	]
 }
