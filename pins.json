@@ -1331,6 +1331,38 @@
 		{
 			"id": 332,
 			"image": "spike/phew.png"
+		},
+		{
+			"id": 333,
+			"image": "leon/neutral.png"
+		},
+		{
+			"id": 334,
+			"image": "leon/happy.png"
+		},
+		{
+			"id": 335,
+			"image": "leon/sad.png"
+		},
+		{
+			"id": 336,
+			"image": "leon/angry.png"
+		},
+		{
+			"id": 337,
+			"image": "leon/gg.png"
+		},
+		{
+			"id": 338,
+			"image": "leon/clap.png"
+		},
+		{
+			"id": 339,
+			"image": "leon/thanks.png"
+		},
+		{
+			"id": 340,
+			"image": "leon/phew.png"
 		}
 	]
 }
