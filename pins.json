@@ -1195,6 +1195,42 @@
 		{
 			"id": 298,
 			"image": "sprout/phew.png"
+		},
+		{
+			"id": 299,
+			"image": "byron/neutral.png"
+		},
+		{
+			"id": 300,
+			"image": "byron/happy.png"
+		},
+		{
+			"id": 301,
+			"image": "byron/sad.png"
+		},
+		{
+			"id": 302,
+			"image": "byron/angry.png"
+		},
+		{
+			"id": 303,
+			"image": "byron/gg.png"
+		},
+		{
+			"id": 304,
+			"image": "byron/clap.png"
+		},
+		{
+			"id": 305,
+			"image": "byron/thanks.png"
+		},
+		{
+			"id": 306,
+			"image": "byron/phew.png"
+		},
+		{
+			"id": 307,
+			"image": "byron/special.png"
 		}
 	]
 }
