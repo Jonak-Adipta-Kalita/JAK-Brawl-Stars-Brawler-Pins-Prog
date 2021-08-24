@@ -1067,6 +1067,38 @@
 		{
 			"id": 266,
 			"image": "tara/special.png"
+		},
+		{
+			"id": 267,
+			"image": "gene/neutral.png"
+		},
+		{
+			"id": 268,
+			"image": "gene/happy.png"
+		},
+		{
+			"id": 269,
+			"image": "gene/sad.png"
+		},
+		{
+			"id": 270,
+			"image": "gene/angry.png"
+		},
+		{
+			"id": 271,
+			"image": "gene/gg.png"
+		},
+		{
+			"id": 272,
+			"image": "gene/clap.png"
+		},
+		{
+			"id": 273,
+			"image": "gene/thanks.png"
+		},
+		{
+			"id": 274,
+			"image": "gene/phew.png"
 		}
 	]
 }
