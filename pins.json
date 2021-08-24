@@ -1399,6 +1399,42 @@
 		{
 			"id": 349,
 			"image": "sandy/special.png"
+		},
+		{
+			"id": 350,
+			"image": "amber/neutral.png"
+		},
+		{
+			"id": 351,
+			"image": "amber/happy.png"
+		},
+		{
+			"id": 352,
+			"image": "amber/sad.png"
+		},
+		{
+			"id": 353,
+			"image": "amber/angry.png"
+		},
+		{
+			"id": 354,
+			"image": "amber/gg.png"
+		},
+		{
+			"id": 355,
+			"image": "amber/clap.png"
+		},
+		{
+			"id": 356,
+			"image": "amber/thanks.png"
+		},
+		{
+			"id": 357,
+			"image": "amber/phew.png"
+		},
+		{
+			"id": 358,
+			"image": "amber/special.png"
 		}
 	]
 }
