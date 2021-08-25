@@ -1499,6 +1499,78 @@
 		{
 			"id": 374,
 			"image": "gale/merchant-gale/phew.png"
+		},
+		{
+			"id": 375,
+			"image": "surge/neutral.png"
+		},
+		{
+			"id": 376,
+			"image": "surge/happy.png"
+		},
+		{
+			"id": 377,
+			"image": "surge/sad.png"
+		},
+		{
+			"id": 378,
+			"image": "surge/angry.png"
+		},
+		{
+			"id": 379,
+			"image": "surge/gg.png"
+		},
+		{
+			"id": 380,
+			"image": "surge/clap.png"
+		},
+		{
+			"id": 381,
+			"image": "surge/thanks.png"
+		},
+		{
+			"id": 382,
+			"image": "surge/phew.png"
+		},
+		{
+			"id": 383,
+			"image": "surge/special.png"
+		},
+		{
+			"id": 384,
+			"image": "surge/mecha-paladin-surge/neutral.png"
+		},
+		{
+			"id": 385,
+			"image": "surge/mecha-paladin-surge/happy.png"
+		},
+		{
+			"id": 386,
+			"image": "surge/mecha-paladin-surge/sad.png"
+		},
+		{
+			"id": 387,
+			"image": "surge/mecha-paladin-surge/angry.png"
+		},
+		{
+			"id": 388,
+			"image": "surge/mecha-paladin-surge/gg.png"
+		},
+		{
+			"id": 389,
+			"image": "surge/mecha-paladin-surge/clap.png"
+		},
+		{
+			"id": 390,
+			"image": "surge/mecha-paladin-surge/thanks.png"
+		},
+		{
+			"id": 391,
+			"image": "surge/mecha-paladin-surge/phew.png"
+		},
+		{
+			"id": 392,
+			"image": "surge/mecha-paladin-surge/special.png"
 		}
 	]
 }
