@@ -1571,6 +1571,74 @@
 		{
 			"id": 392,
 			"image": "surge/mecha-paladin-surge/special.png"
+		},
+		{
+			"id": 393,
+			"image": "colette/neutral.png"
+		},
+		{
+			"id": 394,
+			"image": "colette/happy.png"
+		},
+		{
+			"id": 395,
+			"image": "colette/sad.png"
+		},
+		{
+			"id": 396,
+			"image": "colette/angry.png"
+		},
+		{
+			"id": 397,
+			"image": "colette/gg.png"
+		},
+		{
+			"id": 398,
+			"image": "colette/clap.png"
+		},
+		{
+			"id": 399,
+			"image": "colette/thanks.png"
+		},
+		{
+			"id": 400,
+			"image": "colette/phew.png"
+		},
+		{
+			"id": 401,
+			"image": "colette/trixie-colette/neutral.png"
+		},
+		{
+			"id": 402,
+			"image": "colette/trixie-colette/happy.png"
+		},
+		{
+			"id": 403,
+			"image": "colette/trixie-colette/sad.png"
+		},
+		{
+			"id": 404,
+			"image": "colette/trixie-colette/angry.png"
+		},
+		{
+			"id": 405,
+			"image": "colette/trixie-colette/gg.png"
+		},
+		{
+			"id": 406,
+			"image": "colette/trixie-colette/clap.png"
+		},
+		{
+			"id": 407,
+			"image": "colette/trixie-colette/thanks.png"
+		},
+		{
+			"id": 408,
+			"image": "colette/trixie-colette/phew.png"
+		},
+		{
+			"id": 409,
+			"image": "colette/trixie-colette/special.png"
 		}
 	]
 }
