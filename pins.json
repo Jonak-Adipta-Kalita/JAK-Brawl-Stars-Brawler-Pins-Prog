@@ -1783,6 +1783,78 @@
 		{
 			"id": 445,
 			"image": "colonel-ruffs/ronin-ruffs/special.png"
+		},
+		{
+			"id": 446,
+			"image": "belle/neutral.png"
+		},
+		{
+			"id": 447,
+			"image": "belle/happy.png"
+		},
+		{
+			"id": 448,
+			"image": "belle/sad.png"
+		},
+		{
+			"id": 449,
+			"image": "belle/angry.png"
+		},
+		{
+			"id": 450,
+			"image": "belle/gg.png"
+		},
+		{
+			"id": 451,
+			"image": "belle/clap.png"
+		},
+		{
+			"id": 452,
+			"image": "belle/thanks.png"
+		},
+		{
+			"id": 453,
+			"image": "belle/phew.png"
+		},
+		{
+			"id": 454,
+			"image": "belle/special.png"
+		},
+		{
+			"id": 455,
+			"image": "belle/goldhand-belle/neutral.png"
+		},
+		{
+			"id": 456,
+			"image": "belle/goldhand-belle/happy.png"
+		},
+		{
+			"id": 457,
+			"image": "belle/goldhand-belle/sad.png"
+		},
+		{
+			"id": 458,
+			"image": "belle/goldhand-belle/angry.png"
+		},
+		{
+			"id": 459,
+			"image": "belle/goldhand-belle/gg.png"
+		},
+		{
+			"id": 460,
+			"image": "belle/goldhand-belle/clap.png"
+		},
+		{
+			"id": 461,
+			"image": "belle/goldhand-belle/thanks.png"
+		},
+		{
+			"id": 462,
+			"image": "belle/goldhand-belle/phew.png"
+		},
+		{
+			"id": 463,
+			"image": "belle/goldhand-belle/special.png"
 		}
 	]
 }
