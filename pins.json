@@ -1639,6 +1639,78 @@
 		{
 			"id": 409,
 			"image": "colette/trixie-colette/special.png"
+		},
+		{
+			"id": 410,
+			"image": "lou/neutral.png"
+		},
+		{
+			"id": 411,
+			"image": "lou/happy.png"
+		},
+		{
+			"id": 412,
+			"image": "lou/sad.png"
+		},
+		{
+			"id": 413,
+			"image": "lou/angry.png"
+		},
+		{
+			"id": 414,
+			"image": "lou/gg.png"
+		},
+		{
+			"id": 415,
+			"image": "lou/clap.png"
+		},
+		{
+			"id": 416,
+			"image": "lou/thanks.png"
+		},
+		{
+			"id": 417,
+			"image": "lou/phew.png"
+		},
+		{
+			"id": 418,
+			"image": "lou/special.png"
+		},
+		{
+			"id": 419,
+			"image": "lou/king-lou/neutral.png"
+		},
+		{
+			"id": 420,
+			"image": "lou/king-lou/happy.png"
+		},
+		{
+			"id": 421,
+			"image": "lou/king-lou/sad.png"
+		},
+		{
+			"id": 422,
+			"image": "lou/king-lou/angry.png"
+		},
+		{
+			"id": 423,
+			"image": "lou/king-lou/gg.png"
+		},
+		{
+			"id": 424,
+			"image": "lou/king-lou/clap.png"
+		},
+		{
+			"id": 425,
+			"image": "lou/king-lou/thanks.png"
+		},
+		{
+			"id": 426,
+			"image": "lou/king-lou/phew.png"
+		},
+		{
+			"id": 427,
+			"image": "lou/king-lou/special.png"
 		}
 	]
 }
