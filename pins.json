@@ -1711,6 +1711,78 @@
 		{
 			"id": 427,
 			"image": "lou/king-lou/special.png"
+		},
+		{
+			"id": 428,
+			"image": "colonel-ruffs/neutral.png"
+		},
+		{
+			"id": 429,
+			"image": "colonel-ruffs/happy.png"
+		},
+		{
+			"id": 430,
+			"image": "colonel-ruffs/sad.png"
+		},
+		{
+			"id": 431,
+			"image": "colonel-ruffs/angry.png"
+		},
+		{
+			"id": 432,
+			"image": "colonel-ruffs/gg.png"
+		},
+		{
+			"id": 433,
+			"image": "colonel-ruffs/clap.png"
+		},
+		{
+			"id": 434,
+			"image": "colonel-ruffs/thanks.png"
+		},
+		{
+			"id": 435,
+			"image": "colonel-ruffs/phew.png"
+		},
+		{
+			"id": 436,
+			"image": "colonel-ruffs/special.png"
+		},
+		{
+			"id": 437,
+			"image": "colonel-ruffs/ronin-ruffs/neutral.png"
+		},
+		{
+			"id": 438,
+			"image": "colonel-ruffs/ronin-ruffs/happy.png"
+		},
+		{
+			"id": 439,
+			"image": "colonel-ruffs/ronin-ruffs/sad.png"
+		},
+		{
+			"id": 440,
+			"image": "colonel-ruffs/ronin-ruffs/angry.png"
+		},
+		{
+			"id": 441,
+			"image": "colonel-ruffs/ronin-ruffs/gg.png"
+		},
+		{
+			"id": 442,
+			"image": "colonel-ruffs/ronin-ruffs/clap.png"
+		},
+		{
+			"id": 443,
+			"image": "colonel-ruffs/ronin-ruffs/thanks.png"
+		},
+		{
+			"id": 444,
+			"image": "colonel-ruffs/ronin-ruffs/phew.png"
+		},
+		{
+			"id": 445,
+			"image": "colonel-ruffs/ronin-ruffs/special.png"
 		}
 	]
 }
