@@ -1435,6 +1435,70 @@
 		{
 			"id": 358,
 			"image": "amber/special.png"
+		},
+		{
+			"id": 359,
+			"image": "gale/neutral.png"
+		},
+		{
+			"id": 360,
+			"image": "gale/happy.png"
+		},
+		{
+			"id": 361,
+			"image": "gale/sad.png"
+		},
+		{
+			"id": 362,
+			"image": "gale/angry.png"
+		},
+		{
+			"id": 363,
+			"image": "gale/gg.png"
+		},
+		{
+			"id": 364,
+			"image": "gale/clap.png"
+		},
+		{
+			"id": 365,
+			"image": "gale/thanks.png"
+		},
+		{
+			"id": 367,
+			"image": "gale/phew.png"
+		},
+		{
+			"id": 368,
+			"image": "gale/merchant-gale/neutral.png"
+		},
+		{
+			"id": 369,
+			"image": "gale/merchant-gale/happy.png"
+		},
+		{
+			"id": 370,
+			"image": "gale/merchant-gale/sad.png"
+		},
+		{
+			"id": 371,
+			"image": "gale/merchant-gale/angry.png"
+		},
+		{
+			"id": 372,
+			"image": "gale/merchant-gale/gg.png"
+		},
+		{
+			"id": 373,
+			"image": "gale/merchant-gale/clap.png"
+		},
+		{
+			"id": 374,
+			"image": "gale/merchant-gale/thanks.png"
+		},
+		{
+			"id": 375,
+			"image": "gale/merchant-gale/phew.png"
 		}
 	]
 }
