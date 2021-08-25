@@ -1465,39 +1465,39 @@
 			"image": "gale/thanks.png"
 		},
 		{
-			"id": 367,
+			"id": 366,
 			"image": "gale/phew.png"
 		},
 		{
-			"id": 368,
+			"id": 367,
 			"image": "gale/merchant-gale/neutral.png"
 		},
 		{
-			"id": 369,
+			"id": 368,
 			"image": "gale/merchant-gale/happy.png"
 		},
 		{
-			"id": 370,
+			"id": 369,
 			"image": "gale/merchant-gale/sad.png"
 		},
 		{
-			"id": 371,
+			"id": 370,
 			"image": "gale/merchant-gale/angry.png"
 		},
 		{
-			"id": 372,
+			"id": 371,
 			"image": "gale/merchant-gale/gg.png"
 		},
 		{
-			"id": 373,
+			"id": 372,
 			"image": "gale/merchant-gale/clap.png"
 		},
 		{
-			"id": 374,
+			"id": 373,
 			"image": "gale/merchant-gale/thanks.png"
 		},
 		{
-			"id": 375,
+			"id": 374,
 			"image": "gale/merchant-gale/phew.png"
 		}
 	]
