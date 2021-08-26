@@ -1861,71 +1861,71 @@
 			"image": "buzz/neutral.png"
 		},
 		{
-			"id": 467,
+			"id": 465,
 			"image": "buzz/happy.png"
 		},
 		{
-			"id": 468,
+			"id": 466,
 			"image": "buzz/sad.png"
 		},
 		{
-			"id": 469,
+			"id": 467,
 			"image": "buzz/angry.png"
 		},
 		{
-			"id": 470,
+			"id": 468,
 			"image": "buzz/gg.png"
 		},
 		{
-			"id": 471,
+			"id": 469,
 			"image": "buzz/clap.png"
 		},
 		{
-			"id": 472,
+			"id": 470,
 			"image": "buzz/thanks.png"
 		},
 		{
-			"id": 473,
+			"id": 471,
 			"image": "buzz/phew.png"
 		},
 		{
-			"id": 474,
+			"id": 472,
 			"image": "buzz/special.png"
 		},
 		{
-			"id": 475,
+			"id": 473,
 			"image": "buzz/born-bad-buzz/neutral.png"
 		},
 		{
-			"id": 476,
+			"id": 474,
 			"image": "buzz/born-bad-buzz/happy.png"
 		},
 		{
-			"id": 477,
+			"id": 475,
 			"image": "buzz/born-bad-buzz/sad.png"
 		},
 		{
-			"id": 478,
+			"id": 476,
 			"image": "buzz/born-bad-buzz/angry.png"
 		},
 		{
-			"id": 479,
+			"id": 477,
 			"image": "buzz/born-bad-buzz/gg.png"
 		},
 		{
-			"id": 480,
+			"id": 478,
 			"image": "buzz/born-bad-buzz/clap.png"
 		},
 		{
-			"id": 481,
+			"id": 479,
 			"image": "buzz/born-bad-buzz/thanks.png"
 		},
 		{
-			"id": 482,
+			"id": 480,
 			"image": "buzz/born-bad-buzz/phew.png"
 		},
 		{
-			"id": 483,
+			"id": 481,
 			"image": "buzz/born-bad-buzz/special.png"
 		}
 	]
