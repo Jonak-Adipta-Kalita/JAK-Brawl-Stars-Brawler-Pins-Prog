@@ -1927,6 +1927,78 @@
 		{
 			"id": 481,
 			"image": "buzz/born-bad-buzz/special.png"
+		},
+		{
+			"id": 482,
+			"image": "ash/neutral.png"
+		},
+		{
+			"id": 483,
+			"image": "ash/happy.png"
+		},
+		{
+			"id": 484,
+			"image": "ash/sad.png"
+		},
+		{
+			"id": 485,
+			"image": "ash/angry.png"
+		},
+		{
+			"id": 486,
+			"image": "ash/gg.png"
+		},
+		{
+			"id": 487,
+			"image": "ash/clap.png"
+		},
+		{
+			"id": 488,
+			"image": "ash/thanks.png"
+		},
+		{
+			"id": 489,
+			"image": "ash/phew.png"
+		},
+		{
+			"id": 490,
+			"image": "ash/special.png"
+		},
+		{
+			"id": 491,
+			"image": "ash/ninja-ash/neutral.png"
+		},
+		{
+			"id": 492,
+			"image": "ash/ninja-ash/happy.png"
+		},
+		{
+			"id": 493,
+			"image": "ash/ninja-ash/sad.png"
+		},
+		{
+			"id": 494,
+			"image": "ash/ninja-ash/angry.png"
+		},
+		{
+			"id": 495,
+			"image": "ash/ninja-ash/gg.png"
+		},
+		{
+			"id": 496,
+			"image": "ash/ninja-ash/clap.png"
+		},
+		{
+			"id": 497,
+			"image": "ash/ninja-ash/thanks.png"
+		},
+		{
+			"id": 498,
+			"image": "ash/ninja-ash/phew.png"
+		},
+		{
+			"id": 499,
+			"image": "ash/ninja-ash/special.png"
 		}
 	]
 }
