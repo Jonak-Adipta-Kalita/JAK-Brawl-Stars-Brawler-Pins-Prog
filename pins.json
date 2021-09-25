@@ -1999,6 +1999,14 @@
 		{
 			"id": 499,
 			"image": "ash/ninja-ash/special.png"
+		},
+		{
+			"id": 500,
+			"image": "el-primo/el-dragon/verdoso.png"
+		},
+		{
+			"id": 501,
+			"image": "el-primo/el-dragon/rosado.png"
 		}
 	]
 }
