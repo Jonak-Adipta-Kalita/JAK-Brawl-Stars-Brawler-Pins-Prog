@@ -2007,6 +2007,42 @@
 		{
 			"id": 501,
 			"image": "el-primo/el-dragon/rosado.png"
+		},
+		{
+			"id": 502,
+			"image": "meg/neutral.png"
+		},
+		{
+			"id": 503,
+			"image": "meg/happy.png"
+		},
+		{
+			"id": 504,
+			"image": "meg/sad.png"
+		},
+		{
+			"id": 505,
+			"image": "meg/angry.png"
+		},
+		{
+			"id": 506,
+			"image": "meg/gg.png"
+		},
+		{
+			"id": 507,
+			"image": "meg/clap.png"
+		},
+		{
+			"id": 508,
+			"image": "meg/thanks.png"
+		},
+		{
+			"id": 509,
+			"image": "meg/phew.png"
+		},
+		{
+			"id": 510,
+			"image": "meg/special.png"
 		}
 	]
 }
