@@ -2043,6 +2043,18 @@
 		{
 			"id": 510,
 			"image": "meg/special.png"
+		},
+		{
+			"id": 511,
+			"image": "sprout/prince-sprout/emerald.png"
+		},
+		{
+			"id": 512,
+			"image": "sprout/prince-sprout/ruby.png"
+		},
+		{
+			"id": 513,
+			"image": "spike/dark-lord-spike/happy.png"
 		}
 	]
 }
