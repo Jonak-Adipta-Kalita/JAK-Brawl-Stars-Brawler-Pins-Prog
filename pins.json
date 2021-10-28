@@ -2002,11 +2002,11 @@
 		},
 		{
 			"id": 500,
-			"image": "el-primo/el-dragon/verdoso.png"
+			"image": "el-primo/el-dragon/verdoso/neutral.png"
 		},
 		{
 			"id": 501,
-			"image": "el-primo/el-dragon/rosado.png"
+			"image": "el-primo/el-dragon/rosado/neutral.png"
 		},
 		{
 			"id": 502,
@@ -2046,15 +2046,107 @@
 		},
 		{
 			"id": 511,
-			"image": "sprout/prince-sprout/emerald.png"
+			"image": "sprout/prince-sprout/emerald/neutral.png"
 		},
 		{
 			"id": 512,
-			"image": "sprout/prince-sprout/ruby.png"
+			"image": "sprout/prince-sprout/ruby/neutral.png"
 		},
 		{
 			"id": 513,
 			"image": "spike/dark-lord-spike/happy.png"
+		},
+		{
+			"id": 514,
+			"image": "lola/neutral.png"
+		},
+		{
+			"id": 515,
+			"image": "lola/happy.png"
+		},
+		{
+			"id": 516,
+			"image": "lola/sad.png"
+		},
+		{
+			"id": 517,
+			"image": "lola/angry.png"
+		},
+		{
+			"id": 518,
+			"image": "lola/gg.png"
+		},
+		{
+			"id": 519,
+			"image": "lola/clap.png"
+		},
+		{
+			"id": 520,
+			"image": "lola/thanks.png"
+		},
+		{
+			"id": 521,
+			"image": "lola/phew.png"
+		},
+		{
+			"id": 522,
+			"image": "lola/special.png"
+		},
+		{
+			"id": 523,
+			"image": "lola/chola/neutral.png"
+		},
+		{
+			"id": 524,
+			"image": "lola/chola/happy.png"
+		},
+		{
+			"id": 525,
+			"image": "lola/chola/sad.png"
+		},
+		{
+			"id": 526,
+			"image": "lola/chola/angry.png"
+		},
+		{
+			"id": 527,
+			"image": "lola/chola/gg.png"
+		},
+		{
+			"id": 528,
+			"image": "lola/chola/clap.png"
+		},
+		{
+			"id": 529,
+			"image": "lola/chola/thanks.png"
+		},
+		{
+			"id": 530,
+			"image": "lola/chola/phew.png"
+		},
+		{
+			"id": 531,
+			"image": "lola/chola/special.png"
+		},
+		{
+			"id": 532,
+			"image": "8-bit/v8-bit/neutral.png"
+		},
+		{
+			"id": 532,
+			"image": "brock/hot-road-brock/neutral.png"
+		},
+		{
+			"id": 533,
+			"image": "barley/bakesale-barley/neutral.png"
+		},
+		{
+			"id": 534,
+			"image": "carl/road-rage-carl/neutral.png"
+		},
+		{
+			"id": 535,
+			"image": "mortis/rockabilly-mortis/neutral.png"
 		}
 	]
 }
