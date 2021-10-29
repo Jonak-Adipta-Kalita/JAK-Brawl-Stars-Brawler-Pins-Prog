@@ -2147,6 +2147,34 @@
 		{
 			"id": 535,
 			"image": "mortis/rockabilly-mortis/neutral.png"
+		},
+		{
+			"id": 536,
+			"image": "shelly/witch-shelly/neutral.png"
+		},
+		{
+			"id": 537,
+			"image": "piper/calavera-piper/neutral.png"
+		},
+		{
+			"id": 538,
+			"image": "leon/werewolf-leon/neutral.png"
+		},
+		{
+			"id": 539,
+			"image": "gene/swamp-gene/neutral.png"
+		},
+		{
+			"id": 540,
+			"image": "squeak/ghost-squeak/neutral.png"
+		},
+		{
+			"id": 541,
+			"image": "stu/headless-rider-stu/neutral.png"
+		},
+		{
+			"id": 542,
+			"image": "mr-p/count-pengula/neutral.png"
 		}
 	]
 }
