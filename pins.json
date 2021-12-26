@@ -2175,6 +2175,42 @@
 		{
 			"id": 542,
 			"image": "mr-p/count-pengula/neutral.png"
+		},
+		{
+			"id": 543,
+			"image": "nita/red-nose-nita/neutral.png"
+		},
+		{
+			"id": 544,
+			"image": "dynamike/santa-mike/gg.png"
+		},
+		{
+			"id": 545,
+			"image": "bo/ho-ho-ho-bo/neutral.png"
+		},
+		{
+			"id": 546,
+			"image": "tick/snowman-tick/clap.png"
+		},
+		{
+			"id": 547,
+			"image": "penny/lil-helper-penny/neutral.png"
+		},
+		{
+			"id": 548,
+			"image": "jacky/gift-express-jacky/happy.png"
+		},
+		{
+			"id": 549,
+			"image": "frank/holiday-party-frank/gg.png"
+		},
+		{
+			"id": 560,
+			"image": "griff/sleigher-griff/happy.png"
+		},
+		{
+			"id": 561,
+			"image": "spike/logmas-spike/neutral.png"
 		}
 	]
 }
