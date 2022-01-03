@@ -2211,6 +2211,42 @@
 		{
 			"id": 561,
 			"image": "spike/logmas-spike/neutral.png"
+		},
+		{
+			"id": 562,
+			"image": "grom/neutral.png"
+		},
+		{
+			"id": 563,
+			"image": "grom/happy.png"
+		},
+		{
+			"id": 564,
+			"image": "grom/sad.png"
+		},
+		{
+			"id": 565,
+			"image": "grom/angry.png"
+		},
+		{
+			"id": 566,
+			"image": "grom/gg.png"
+		},
+		{
+			"id": 567,
+			"image": "grom/clap.png"
+		},
+		{
+			"id": 568,
+			"image": "grom/thanks.png"
+		},
+		{
+			"id": 569,
+			"image": "grom/phew.png"
+		},
+		{
+			"id": 570,
+			"image": "grom/special.png"
 		}
 	]
 }
