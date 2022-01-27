@@ -2247,6 +2247,26 @@
 		{
 			"id": 570,
 			"image": "grom/special.png"
+		},
+		{
+			"id": 571,
+			"image": "nita/nian-nita/neutral.png"
+		},
+		{
+			"id": 572,
+			"image": "el-primo/el-tigro/neutral.png"
+		},
+		{
+			"id": 573,
+			"image": "barley/sway-master-barley/neutral.png"
+		},
+		{
+			"id": 574,
+			"image": "rosa/major-rosa/neutral.png"
+		},
+		{
+			"id": 575,
+			"image": "edgar/orochi-edgar/neutral.png"
 		}
 	]
 }
