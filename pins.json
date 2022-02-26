@@ -1712,6 +1712,60 @@
 		},
 		{
 			"image": "lou/smooth-lou/neutral.png"
+		},
+		{
+			"image": "fang/neutral.png"
+		},
+		{
+			"image": "fang/happy.png"
+		},
+		{
+			"image": "fang/sad.png"
+		},
+		{
+			"image": "fang/angry.png"
+		},
+		{
+			"image": "fang/gg.png"
+		},
+		{
+			"image": "fang/clap.png"
+		},
+		{
+			"image": "fang/thanks.png"
+		},
+		{
+			"image": "fang/phew.png"
+		},
+		{
+			"image": "fang/special.png"
+		},
+		{
+			"image": "fang/furious-fang/neutral.png"
+		},
+		{
+			"image": "fang/furious-fang/happy.png"
+		},
+		{
+			"image": "fang/furious-fang/sad.png"
+		},
+		{
+			"image": "fang/furious-fang/angry.png"
+		},
+		{
+			"image": "fang/furious-fang/gg.png"
+		},
+		{
+			"image": "fang/furious-fang/clap.png"
+		},
+		{
+			"image": "fang/furious-fang/thanks.png"
+		},
+		{
+			"image": "fang/furious-fang/phew.png"
+		},
+		{
+			"image": "fang/furious-fang/special.png"
 		}
 	]
 }
