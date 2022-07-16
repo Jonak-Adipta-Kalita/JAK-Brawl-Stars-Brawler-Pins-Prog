@@ -1,14 +1,18 @@
 const dex = document.getElementById('dex');
 const fetchPins = async () => {
-    const url = "/pins.json";
-	const res = await fetch(url);
+    const res = await fetch("https://jak_api.p.rapidapi.com/brawlStars", {
+		"method": "GET",
+		"headers": {
+			"x-rapidapi-host": "jak_api.p.rapidapi.com",
+			"x-rapidapi-key": "d3474315fcmshe6f03eb826f16bcp181f82jsn7d262d2601be"
+		}
+	});
 	const data = await res.json();
+	const pins = [];
 	console.log(data);
-	const pins = data.results.map((result, index) => ({
-		...result,
-		id: index + 1,
-		image: `./images/${result.image}`
-	}));
+	data.brawlers.map((result) => result.pins.map((result) => pins.push(result)));
+	const pins_ = pins.reduce((acc, curVal) => pins.concat(curVal));
+	console.log(pins_)
 	displayPins(pins);
 };
 
@@ -16,7 +20,7 @@ const displayPins = (pin) => {
     const pinsHTMLString = pin
         .map((pien) => (`
 			<li class="card">
-				<img class="card-image" src="${pien.image}"/>
+				<img class="card-image" src="https://jak-api.vercel.app${pien.image}"/>
 			</li>
 		`)).join('');
     dex.innerHTML = pinsHTMLString;
